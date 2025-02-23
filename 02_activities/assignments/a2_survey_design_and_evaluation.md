@@ -39,30 +39,47 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 # Your Changes
 
 ## Part A - Survey Design: 
-
-The number of your chosen topic: `#`
+# Reza Tehrani
+The number of your chosen topic: `# Scenario No. 1`
 
 Describe the purpose of your survey:
 ```
 write your answer here...
 ```
+# The purpose of this survey is to identify the reasons behind the high turnover rate among entry- and lower-level employees and to gather insights on changes that can be made to improve employee satisfaction and retention.
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 write your answer here...
 ```
+# Target Population: Entry- and lower-level employees currently working at the company.
+
+# Sampling Frame: The company's HR database containing the list of all entry- and lower-level employees.
+
+# Sampling Units: Individual entry- and lower-level employees.
+
+# Overall Sampling Strategy: Stratified random sampling to ensure representation from various departments and job roles.
 
 Your 5-10 question survey:
 ```
 1. write your question here...
+# On a scale of 1-10, how satisfied are you with your current job?
 2. write your question here...
+# What factors contribute to your job satisfaction or dissatisfaction? (Multiple choice: Work environment, Management, Career growth, Compensation, Work-life balance, Job responsibilities, Other)
 3. write your question here...
+# How would you rate the support and communication from your immediate supervisor? (Poor, Fair, Good, Excellent)
 4. write your question here...
+# Have you considered leaving the company in the past six months? (Yes, No)
 5. write your question here...
+# If yes, what were the main reasons for considering leaving? (Open-ended)
 6. write your question here... (optional)
+# What improvements would you suggest to enhance your job satisfaction? (Open-ended)
 7. write your question here... (optional)
+# Do you feel that your contributions are valued by the company? (Yes, No, Unsure)
 8. write your question here... (optional)
+# How likely are you to recommend this company as a good place to work? (Not likely, Somewhat likely, Very likely)
 9. write your question here... (optional)
+# How has your job satisfaction changed over the past year? (Improved, Stayed the same, Worsened)
 10. write your question here... (optional)
 ```
 
@@ -73,6 +90,32 @@ Identify and describe survey features:
 ```
 write your answer here
 ```
+1. Sample type
+# SRS
+2. Sample size
+# Determined based on the number of entry- and lower-level employees to ensure a representative sample
+3. Target population
+# Entry- and lower-level employees at the company
+4. Sampling frame
+# The company's HR database of all entry- and lower-level employees
+5. Survey mode(s) 
+# Online survey (email or company intranet) to reach all employees
+6. Timeline
+# The survey will be conducted over a period of one weeks to allow sufficient time for responses
+7. Response rate
+# Expected to be high due to the relevance of the survey to employees' job satisfaction and the use of reminders
+8. Weights
+# Weighting may be applied to ensure representation from all departments and job roles. for example based on department sizes
+9. Data processing
+# Responses will be collected and analyzed using statistical software to identify trends and patterns
+10. Cleaning, imputation, etc
+# Data cleaning will include checking for incomplete responses and handling missing data through imputation methods
+11. Sources of error
+# Potential sources of error include non-response bias and self-reporting bias
+12. Limitations, known biases, etc
+# Limitations include the reliance on self-reported data and the potential for employees to provide socially desirable answers.
+13. Link to documentation and any additional sources used
+# Survey on Giving, Volunteering and Participating (SGVP) https://www.statcan.gc.ca/en/survey/household/4430
 
 ## Rubric
 
