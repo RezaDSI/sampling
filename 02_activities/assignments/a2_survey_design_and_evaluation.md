@@ -81,6 +81,7 @@ Your 5-10 question survey:
 9. write your question here... (optional)
 # How has your job satisfaction changed over the past year? (Improved, Stayed the same, Worsened)
 10. write your question here... (optional)
+How many years of experience do you have in your current role? (Less than 1 year, 1-2 years, 3-5 years, More than 5 years)
 ```
 
 ## Part B - Survey Evaluation:
@@ -93,27 +94,27 @@ write your answer here
 1. Sample type
 # SRS
 2. Sample size
-# Determined based on the number of entry- and lower-level employees to ensure a representative sample
+# The survey collected data from persons aged 15 years and over living in private households in Canada, excluding residents of the Yukon, Northwest Territories, and Nunavut, and full-time residents of institutions
 3. Target population
-# Entry- and lower-level employees at the company
+# All persons 15 years of age and older living in the ten provinces of Canada
 4. Sampling frame
-# The company's HR database of all entry- and lower-level employees
-5. Survey mode(s) 
-# Online survey (email or company intranet) to reach all employees
+# The survey's sampling frame included private households in the ten provinces of Canada
+5. Survey mode(s)
+#  The survey was conducted using telephone interviews and electronic questionnaires
 6. Timeline
-# The survey will be conducted over a period of one weeks to allow sufficient time for responses
+# From September 15, 2023 to March 30, 2024
 7. Response rate
-# Expected to be high due to the relevance of the survey to employees' job satisfaction and the use of reminders
+# The response rate for the survey is not explicitly mentioned in the available documentation
 8. Weights
-# Weighting may be applied to ensure representation from all departments and job roles. for example based on department sizes
+# eighting was applied to ensure that the survey results were representative of the target population
 9. Data processing
-# Responses will be collected and analyzed using statistical software to identify trends and patterns
+# Data processing included editing, coding, and verification to ensure data quality
 10. Cleaning, imputation, etc
-# Data cleaning will include checking for incomplete responses and handling missing data through imputation methods
+# Data cleaning involved checking for incomplete responses and handling missing data through imputation methods
 11. Sources of error
 # Potential sources of error include non-response bias and self-reporting bias
 12. Limitations, known biases, etc
-# Limitations include the reliance on self-reported data and the potential for employees to provide socially desirable answers.
+# Limitations include the reliance on self-reported data and the potential for respondents to provide socially desirable answers
 13. Link to documentation and any additional sources used
 # Survey on Giving, Volunteering and Participating (SGVP) https://www.statcan.gc.ca/en/survey/household/4430
 
